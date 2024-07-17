@@ -7,16 +7,16 @@ Introducing our compact and ultra-low-power Buck-Boost Converter Module, designe
 
 Some specs: 
 
-- Operating quiescent current: **~300 nA**
-- Input voltage range (VIN):*** 1.8 V to 5.5 V***
-- Output current: up to** 300 mA**
+- Input voltage range (VIN): **1.8 V to 5.5 V**
+- Output current: up to **300 mA**
 - Output Voltage: **3.3V**
 - Output Voltage Accuracy: **±1.5%**
-- Efficiency: **~90%** in buck mode, **~75%** in boost mode
+- Operating quiescent current: **~300 nA**
 - Shutdown current: **0.01 μA**
 - Output DC/DC auto-discharge is included
+- Efficiency: **~90%** in buck mode, **~75%** in boost mode
 - Battery monitor: **VIN/3** typ. **0.1 μA** extra supply current
-- Operating Temperature:** −40 to 85 °C**
+- Operating Temperature: **−40 to 85 °C**
 - Module dimensions: **19.3 mm x 34.5 mm (0.76 in. x 1.36 in.)** with 4x M2 mounting holes
 
 

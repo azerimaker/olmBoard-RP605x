@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "olmboard")(type "KiCad")(uri "${KIPRJMOD}/../olmboard-lib/olmboard.kicad_sym")(options "")(descr ""))
+  (lib (name "node-lib-v1")(type "KiCad")(uri "C:/Users/Admin/OneDrive/TTI_Files/Other_Things_Projects/1swiss1/Hardware/1s1-node-se/Hardware/lib/node-lib-v1.kicad_sym")(options "")(descr ""))
+)

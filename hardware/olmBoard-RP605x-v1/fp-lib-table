@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "olmboard")(type "KiCad")(uri "${KIPRJMOD}/../olmboard-lib/olmboard.pretty")(options "")(descr ""))
+  (lib (name "my_Logos")(type "KiCad")(uri "C:/Users/Admin/OneDrive/Engineering/PCB_Projects/KiCAD/mylib/my_Logos.pretty")(options "")(descr ""))
+)
